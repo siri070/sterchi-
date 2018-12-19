@@ -29,3 +29,10 @@ li a:hover:not(.active) {
 h2{
     font-family: sans-serif;
 }
+
+.masterDiv {
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 90%;
+
+}
