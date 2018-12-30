@@ -29,6 +29,7 @@ li a:hover:not(.active) {
 h2{
     font-family: sans-serif;
 }
+
 .Bilder{
     float: left;
     width: 78%;
@@ -41,3 +42,9 @@ h2{
 
 }
 
+.masterDiv {
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 90%;
+
+}
