@@ -34,12 +34,14 @@ h2{
 
 .Bilder{
     float: left;
+    background-color: #77dd77;
 
 }
 
 .Text{
     float: right;
     width: 45%;
+    background-color: #267F31;
 
 }
 
