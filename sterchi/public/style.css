@@ -31,7 +31,7 @@ h2{
 }
 
 .Bilder{
-    float: left;
+    padding: 1%;
     background-color: #E8EBDE;
     margin-bottom: 3%;
     margin-top: 3%;
@@ -42,13 +42,16 @@ h2{
 
 .Bilder img{
     width: 50%;
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
     -webkit-transition: .3s ease-in-out;
     transition: .3s ease-in-out;
 
 }
 
 .Bilder:hover img{
-   width: 52%;
+    -webkit-filter: grayscale(0);
+    filter: grayscale(0);
 }
 
 .Text{
