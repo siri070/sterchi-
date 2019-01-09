@@ -1,5 +1,3 @@
-
-
 ul {
     list-style-type: none;
     margin: 0;
@@ -37,7 +35,20 @@ h2{
     background-color: #E8EBDE;
     margin-bottom: 3%;
     margin-top: 3%;
+    width: 80%;
+    margin: auto;
 
+}
+
+.Bilder img{
+    width: 50%;
+    -webkit-transition: .3s ease-in-out;
+    transition: .3s ease-in-out;
+
+}
+
+.Bilder:hover img{
+   width: 52%;
 }
 
 .Text{
