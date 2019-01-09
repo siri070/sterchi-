@@ -25,7 +25,7 @@ li a {
 }
 
 li a:hover:not(.active) {
-    background-color: #111;
+    background-color: #267F31;
     font-family: sans-serif;
 }
 h2{
