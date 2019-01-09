@@ -5,7 +5,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #267F31;
+    background-color: #586D63;
     font-family: sans-serif;
 }
 
@@ -34,14 +34,14 @@ h2{
 
 .Bilder{
     float: left;
-    background-color: #77dd77;
+    background-color: #E8EBDE;
 
 }
 
 .Text{
     float: right;
     width: 45%;
-    background-color: #267F31;
+
 
 }
 
@@ -50,4 +50,7 @@ h2{
     margin-right: 5%;
     width: 90%;
 
+}
+body{
+    background-color: #B6CDB2;
 }
