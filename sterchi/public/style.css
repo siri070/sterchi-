@@ -74,3 +74,21 @@ h2{
 body{
     background-color: #B6CDB2;
 }
+
+.Feld{
+    padding: 1%;
+    background-color: #E8EBDE;
+    margin-bottom: 3%;
+    margin-top: 3%;
+    width: 80%;
+    margin: auto;
+}
+.Feld img {
+    width: 70%;
+    filter: grayscale(50%);
+    -webkit-transition: .3s ease-in-out;
+    transition: .3s ease-in-out;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 10%;
+}
