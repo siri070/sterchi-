@@ -1,3 +1,9 @@
+p{
+    font-family: sans-serif;
+}
+
+
+
 ul {
     list-style-type: none;
     margin: 0;
@@ -75,7 +81,7 @@ body{
     background-color: #B6CDB2;
 }
 
-.Feld{
+.titel{
     padding: 1%;
     background-color: #E8EBDE;
     margin-bottom: 3%;
@@ -83,7 +89,7 @@ body{
     width: 80%;
     margin: auto;
 }
-.Feld img {
+.titel img {
     width: 70%;
     filter: grayscale(50%);
     -webkit-transition: .3s ease-in-out;
